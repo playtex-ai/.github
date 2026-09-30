@@ -4,7 +4,7 @@
 
 **Make something worth exploring.** PLAYTEX AI gives game developers and 3D artists browser-based workflows for **image to texture, image to PBR, material to PBR, and skybox generation**.
 
-[**Open PLAYTEX AI ↗**](https://www.playtex.ai/?utm_source=github&utm_medium=referral&utm_campaign=organization_profile) · [**Get free assets ↓**](https://github.com/playtex-ai/creator-playground/releases/download/v1.1.0/playtex-ai-wood-photo-pbr-512.zip) · [**Explore the playground →**](https://github.com/playtex-ai/creator-playground)
+[**Open PLAYTEX AI ↗**](https://www.playtex.ai/?utm_source=github&utm_medium=referral&utm_campaign=organization_profile) · [**Get free assets ↓**](https://github.com/playtex-ai/creator-playground/releases/download/v1.2.0/playtex-ai-black-gold-marble-512.zip) · [**Explore the playground →**](https://github.com/playtex-ai/creator-playground)
 
 ## 🎮 Choose your next move
 
@@ -17,15 +17,15 @@
 
 AI-assisted tools create source imagery. **PBR Map Generator uses deterministic image processing and procedural material generation.** The brand includes AI tools; not every processing step uses AI.
 
-## 🎁 Start with a real PLAYTEX AI asset
+## 🎁 Put Black & Gold Marble in your next scene
 
-[![Actual city-night environment featured on the PLAYTEX AI website](https://raw.githubusercontent.com/playtex-ai/creator-playground/main/media/showcase/city-night.webp)](https://github.com/playtex-ai/creator-playground)
+[![Actual PLAYTEX AI Black and Gold Marble material rendered in Blender Cycles](https://raw.githubusercontent.com/playtex-ai/creator-playground/main/media/showcase/black-gold-cycles.webp)](https://github.com/playtex-ai/creator-playground/releases/download/v1.2.0/playtex-ai-black-gold-marble-512.zip)
 
-**A real wood photo. Seven PBR maps. Yours to explore.** Download our first-party 512px wood-photo crop and its actual PBR outputs, including settings. CC BY 4.0 with attribution; no sign-up for this GitHub sample.
+**A finished material. Six PBR maps. Ready to explore.** Download the source texture, albedo, normal, roughness, metallic, height, AO, Unity packing, and settings. The preview shows this actual material on a sphere and cube in Blender Cycles.
 
-[**Get the free Wood Photo PBR pack**](https://github.com/playtex-ai/creator-playground/releases/download/v1.1.0/playtex-ai-wood-photo-pbr-512.zip) · [Explore real texture examples](https://github.com/playtex-ai/creator-playground) · [Asset rights](https://github.com/playtex-ai/creator-playground/blob/main/RIGHTS.md)
+[**Download Black & Gold Marble — 512px**](https://github.com/playtex-ai/creator-playground/releases/download/v1.2.0/playtex-ai-black-gold-marble-512.zip) · [Browse the maps](https://github.com/playtex-ai/creator-playground/tree/main/assets/materials/black-gold-marble)
 
-The wood sample is not seamless or a measured scan. The city image above is a showcase preview, excluded from the sample license. Live-product access follows the website’s plan rules.
+No sign-up for this GitHub sample. Existing [PLAYTEX AI Terms](https://www.playtex.ai/terms) apply; this pack is excluded from the repository's CC BY license.
 
 ## 📚 Learn it. Try it. Make it yours.
 
